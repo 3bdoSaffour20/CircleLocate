@@ -1,0 +1,6 @@
+{
+  "name": "CircleLocate",
+  "description": "Phone number location tracker with interactive maps, real-time tracking simulation, and history logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
